@@ -1,2 +1,2 @@
 # Grocery-Mate
-Grocery Delivery Website 
+Online Grocery Delivery Website 
